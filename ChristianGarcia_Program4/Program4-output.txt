@@ -1,0 +1,26 @@
+Name:    Christian Garcia
+Course:  COSC 4302 Operating Systems
+Program: Four
+
+Choose an option:
+1. Enter your own array
+2. Generate a random array
+0. Exit
+Enter your choice: 2
+Enter the number of integers to be sorted (0 to exit): gfg
+Error: Invalid input. Please enter a valid integer.
+Enter the number of integers to be sorted (0 to exit): 10
+Sorted Array: [16, 16, 32, 41, 45, 52, 76, 83, 85, 96]
+Choose an option:
+1. Enter your own array
+2. Generate a random array
+0. Exit
+Enter your choice: 1
+Enter the integers separated by spaces: 2 6 4 1 25 12 16 11 5 2
+Sorted Array: [1, 2, 2, 4, 5, 6, 11, 12, 16, 25]
+Choose an option:
+1. Enter your own array
+2. Generate a random array
+0. Exit
+Enter your choice: 0
+Program ending.
