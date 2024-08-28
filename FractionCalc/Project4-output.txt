@@ -1,0 +1,30 @@
+Name:    Christian Garcia
+Course:  COSC 4301 Modern Programming
+Project: Four
+
+
+Server started on port 4301
+Client connected
+Received message from client: 1 10 1
+Received message from client: 1 10 2
+Received message from client: 10 2 2
+
+
+Connected to server on port 4301
+Enter three integers separated by spaces (e.g., 1 10 1) or 'bye' to exit: 
+1 10 1
+Server Response: Sum: 25
+Server Response: Mean: 5.0
+Server Response: Standard Deviation: 2.8284271247461903
+Enter three integers separated by spaces (e.g., 1 10 1) or 'bye' to exit: 
+1 10 2
+Server Response: Sum: 30
+Server Response: Mean: 6.0
+Server Response: Standard Deviation: 2.8284271247461903
+Enter three integers separated by spaces (e.g., 1 10 1) or 'bye' to exit: 
+10 2 2
+Server Error: Invalid input. Please check the input values.
+Enter three integers separated by spaces (e.g., 1 10 1) or 'bye' to exit: 
+bye
+End
+Connection closed
