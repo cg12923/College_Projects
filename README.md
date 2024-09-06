@@ -1,4 +1,4 @@
-Project Cash Register - Using Java, I created a program that simulates a cash register and the user is able to see the inventory available and select items they want to purchase. It also checks out the user for the items and prints a receipt to them. The program also updates the inventory if the customer buys the product or returns it back before completing the transaction.
+Project Cash Register - Using Java, I created a program that simulates a cash register and the user is able to see the inventory available and select items they want to purchase. It also checks out the user for the items and prints a receipt to them. The program also updates the inventory if the customer buys the product or returns it back before completing the transaction
 
 Project ServerClient - Using Java, I demonstrates an example on how a server and a client communicate with each other. This project shows the standard of coding I was taught and how I format my code files for majority of my projects.
 
