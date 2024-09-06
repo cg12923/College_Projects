@@ -1,4 +1,4 @@
-Project Cash Register:< br / >
+Project Cash Register:<br/>
 This Java-based program simulates a cash register, allowing users to view available inventory, select items for purchase, and process transactions. The application generates a receipt upon checkout and dynamically updates the inventory based on purchases or returns made before the transaction is finalized.
 
 Project ServerClient:
