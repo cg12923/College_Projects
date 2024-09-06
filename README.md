@@ -1,12 +1,17 @@
-Project Cash Register - Using Java, I created a program that simulates a cash register and the user is able to see the inventory available and select items they want to purchase. It also checks out the user for the items and prints a receipt to them. The program also updates the inventory if the customer buys the product or returns it back before completing the transaction
+Project Cash Register
+This Java-based program simulates a cash register, allowing users to view available inventory, select items for purchase, and process transactions. The application generates a receipt upon checkout and dynamically updates the inventory based on purchases or returns made before the transaction is finalized.
 
-Project ServerClient - Using Java, I demonstrates an example on how a server and a client communicate with each other. This project shows the standard of coding I was taught and how I format my code files for majority of my projects.
+Project ServerClient
+This project demonstrates a server-client communication model using Java. It exemplifies the coding standards and file formatting that I consistently apply across most of my projects, providing a clear example of the structure and clarity in my code.
 
-Project FractionCalculator - Using Java, I created a fraction calculator that allows the user to enter a two fractions and perform 4 different arithmetic operations between those fractions. This project I was not able to finish formatting my code file to fit the usual standards of providing a description for what each section of code is doing.
+Project FractionCalculator
+This Java project is a fraction calculator that enables users to input two fractions and perform four different arithmetic operations. While the program is functional, further enhancements are needed to align the code formatting with standard best practices, including detailed descriptions of each code section.
 
-Project Gas Price Analyzer - Using Java, I created a program that reads in data from a file that contains gas prices through out the years and performs calculations like average price per year and sorts prices from highest to lowest.
+Project Gas Price Analyzer
+In this project, I developed a Java application that reads historical gas price data from a file, calculates average prices per year, and sorts the data from highest to lowest. The program offers valuable insights into price trends over time.
 
-Project MultithreadSorting - Using Java, I created a program that randomly creates an array or allows the user to create their own array. That array will then get sorted in ascending order and it uses multithreads to achieve the sorting.
+Project MultithreadSorting
+This Java application showcases the use of multithreading to sort arrays in ascending order. Users can either generate a random array or input their own, which the program then sorts efficiently using multiple threads.
 
-Project StatRecorder - Using Python, I created a program that takes in information and data about a sports player and logs it within various arrays. It then sorts the stats in descending order, outputting the players name and stats. 
-
+Project StatRecorder
+Developed in Python, this program records and organizes sports player statistics into various arrays. The application then sorts the stats in descending order, outputting the players’ names and performance metrics, providing a clear overview of player performance.
