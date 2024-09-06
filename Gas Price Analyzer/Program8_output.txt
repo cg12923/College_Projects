@@ -1,0 +1,318 @@
+Name:    Christian Garcia
+Course:  COSC 4301 Modern Programming
+Project: Eight
+
+
+Average Price Per Year:
+Year: 2012, Average Price: 3.68
+Year: 2001, Average Price: 1.46
+Year: 2011, Average Price: 3.58
+Year: 2000, Average Price: 1.52
+Year: 2010, Average Price: 2.84
+Year: 2009, Average Price: 2.41
+Year: 1998, Average Price: 1.07
+Year: 2008, Average Price: 3.30
+Year: 1997, Average Price: 1.24
+Year: 2007, Average Price: 2.84
+Year: 1996, Average Price: 1.24
+Year: 2006, Average Price: 2.62
+Year: 1995, Average Price: 1.16
+Year: 2005, Average Price: 2.31
+Year: 1994, Average Price: 1.08
+Year: 2004, Average Price: 1.89
+Year: 1993, Average Price: 1.07
+Year: 2003, Average Price: 1.60
+Year: 2013, Average Price: 3.65
+Year: 2002, Average Price: 1.39
+Year: 1999, Average Price: 1.18
+
+Average Price Per Month:
+Month-Year: 11-2000, Average Price: 1.56
+Month-Year: 11-2001, Average Price: 1.21
+Month-Year: 03-1996, Average Price: 1.18
+Month-Year: 11-2002, Average Price: 1.46
+Month-Year: 03-1995, Average Price: 1.12
+Month-Year: 11-2003, Average Price: 1.55
+Month-Year: 03-1994, Average Price: 1.01
+Month-Year: 11-2004, Average Price: 2.02
+Month-Year: 11-2005, Average Price: 2.30
+Month-Year: 11-2006, Average Price: 2.28
+Month-Year: 03-1999, Average Price: 1.02
+Month-Year: 11-2007, Average Price: 3.13
+Month-Year: 03-1998, Average Price: 1.06
+Month-Year: 11-2008, Average Price: 2.21
+Month-Year: 03-1997, Average Price: 1.25
+Month-Year: 11-2009, Average Price: 2.71
+Month-Year: 08-2009, Average Price: 2.67
+Month-Year: 05-1996, Average Price: 1.32
+Month-Year: 05-1995, Average Price: 1.23
+Month-Year: 05-1998, Average Price: 1.11
+Month-Year: 05-1997, Average Price: 1.24
+Month-Year: 08-2005, Average Price: 2.53
+Month-Year: 08-2006, Average Price: 3.00
+Month-Year: 08-2007, Average Price: 2.83
+Month-Year: 05-1994, Average Price: 1.05
+Month-Year: 08-2008, Average Price: 3.83
+Month-Year: 05-1993, Average Price: 1.10
+Month-Year: 08-2001, Average Price: 1.46
+Month-Year: 08-2002, Average Price: 1.44
+Month-Year: 11-2010, Average Price: 2.91
+Month-Year: 08-2003, Average Price: 1.66
+Month-Year: 11-2011, Average Price: 3.44
+Month-Year: 08-2004, Average Price: 1.92
+Month-Year: 11-2012, Average Price: 3.52
+Month-Year: 08-2000, Average Price: 1.51
+Month-Year: 05-1999, Average Price: 1.17
+Month-Year: 01-2008, Average Price: 3.09
+Month-Year: 01-2009, Average Price: 1.84
+Month-Year: 01-2006, Average Price: 2.36
+Month-Year: 01-2007, Average Price: 2.29
+Month-Year: 01-2000, Average Price: 1.33
+Month-Year: 01-2001, Average Price: 1.49
+Month-Year: 01-2004, Average Price: 1.61
+Month-Year: 01-2005, Average Price: 1.87
+Month-Year: 01-2002, Average Price: 1.15
+Month-Year: 01-2003, Average Price: 1.50
+Month-Year: 01-2011, Average Price: 3.15
+Month-Year: 01-2012, Average Price: 3.44
+Month-Year: 01-2010, Average Price: 2.77
+Month-Year: 01-2013, Average Price: 3.39
+Month-Year: 12-1999, Average Price: 1.31
+Month-Year: 12-1995, Average Price: 1.12
+Month-Year: 12-1996, Average Price: 1.28
+Month-Year: 12-1997, Average Price: 1.18
+Month-Year: 12-1998, Average Price: 0.99
+Month-Year: 04-2009, Average Price: 2.10
+Month-Year: 03-2003, Average Price: 1.73
+Month-Year: 03-2002, Average Price: 1.29
+Month-Year: 03-2001, Average Price: 1.45
+Month-Year: 03-2000, Average Price: 1.56
+Month-Year: 03-2007, Average Price: 2.61
+Month-Year: 03-2006, Average Price: 2.47
+Month-Year: 03-2005, Average Price: 2.12
+Month-Year: 03-2004, Average Price: 1.78
+Month-Year: 11-1993, Average Price: 1.07
+Month-Year: 04-2001, Average Price: 1.59
+Month-Year: 11-1994, Average Price: 1.12
+Month-Year: 04-2002, Average Price: 1.44
+Month-Year: 11-1995, Average Price: 1.11
+Month-Year: 03-2009, Average Price: 2.01
+Month-Year: 04-2003, Average Price: 1.63
+Month-Year: 11-1996, Average Price: 1.28
+Month-Year: 03-2008, Average Price: 3.29
+Month-Year: 04-2004, Average Price: 1.84
+Month-Year: 11-1997, Average Price: 1.22
+Month-Year: 04-2005, Average Price: 2.28
+Month-Year: 11-1998, Average Price: 1.04
+Month-Year: 04-2006, Average Price: 2.79
+Month-Year: 11-1999, Average Price: 1.29
+Month-Year: 04-2007, Average Price: 2.89
+Month-Year: 04-2008, Average Price: 3.51
+Month-Year: 12-1993, Average Price: 1.01
+Month-Year: 12-1994, Average Price: 1.13
+Month-Year: 04-2000, Average Price: 1.51
+Month-Year: 02-2006, Average Price: 2.33
+Month-Year: 08-1997, Average Price: 1.27
+Month-Year: 02-2005, Average Price: 1.95
+Month-Year: 08-1996, Average Price: 1.25
+Month-Year: 02-2004, Average Price: 1.69
+Month-Year: 08-1995, Average Price: 1.17
+Month-Year: 02-2003, Average Price: 1.65
+Month-Year: 08-1994, Average Price: 1.15
+Month-Year: 03-2010, Average Price: 2.82
+Month-Year: 02-2002, Average Price: 1.15
+Month-Year: 02-2001, Average Price: 1.49
+Month-Year: 02-2000, Average Price: 1.41
+Month-Year: 08-1999, Average Price: 1.26
+Month-Year: 08-1998, Average Price: 1.07
+Month-Year: 03-2013, Average Price: 3.78
+Month-Year: 03-2012, Average Price: 3.91
+Month-Year: 03-2011, Average Price: 3.62
+Month-Year: 08-1993, Average Price: 1.06
+Month-Year: 10-1996, Average Price: 1.25
+Month-Year: 10-1995, Average Price: 1.13
+Month-Year: 10-1994, Average Price: 1.11
+Month-Year: 10-1993, Average Price: 1.09
+Month-Year: 02-2009, Average Price: 1.98
+Month-Year: 10-1999, Average Price: 1.29
+Month-Year: 02-2008, Average Price: 3.08
+Month-Year: 10-1998, Average Price: 1.06
+Month-Year: 02-2007, Average Price: 2.32
+Month-Year: 10-1997, Average Price: 1.24
+Month-Year: 02-2013, Average Price: 3.74
+Month-Year: 02-2012, Average Price: 3.64
+Month-Year: 02-2011, Average Price: 3.26
+Month-Year: 02-2010, Average Price: 2.70
+Month-Year: 08-2012, Average Price: 3.78
+Month-Year: 01-1996, Average Price: 1.14
+Month-Year: 08-2013, Average Price: 3.64
+Month-Year: 01-1995, Average Price: 1.13
+Month-Year: 01-1998, Average Price: 1.13
+Month-Year: 01-1997, Average Price: 1.28
+Month-Year: 01-1999, Average Price: 0.98
+Month-Year: 08-2010, Average Price: 2.78
+Month-Year: 08-2011, Average Price: 3.70
+Month-Year: 01-1994, Average Price: 1.00
+Month-Year: 07-1999, Average Price: 1.20
+Month-Year: 07-1997, Average Price: 1.22
+Month-Year: 07-1998, Average Price: 1.09
+Month-Year: 07-1995, Average Price: 1.20
+Month-Year: 07-1996, Average Price: 1.27
+Month-Year: 07-1993, Average Price: 1.08
+Month-Year: 07-1994, Average Price: 1.11
+Month-Year: 12-2010, Average Price: 3.05
+Month-Year: 12-2012, Average Price: 3.38
+Month-Year: 12-2011, Average Price: 3.33
+Month-Year: 09-2000, Average Price: 1.59
+Month-Year: 09-2001, Average Price: 1.56
+Month-Year: 12-2007, Average Price: 3.07
+Month-Year: 09-2002, Average Price: 1.44
+Month-Year: 12-2006, Average Price: 2.36
+Month-Year: 09-2003, Average Price: 1.72
+Month-Year: 12-2009, Average Price: 2.66
+Month-Year: 09-2004, Average Price: 1.91
+Month-Year: 12-2008, Average Price: 1.74
+Month-Year: 09-2005, Average Price: 2.95
+Month-Year: 09-2006, Average Price: 2.61
+Month-Year: 04-1998, Average Price: 1.08
+Month-Year: 09-2007, Average Price: 2.85
+Month-Year: 04-1999, Average Price: 1.17
+Month-Year: 09-2008, Average Price: 3.76
+Month-Year: 09-2009, Average Price: 2.61
+Month-Year: 04-1993, Average Price: 1.08
+Month-Year: 04-1994, Average Price: 1.03
+Month-Year: 04-1995, Average Price: 1.16
+Month-Year: 04-1996, Average Price: 1.28
+Month-Year: 04-1997, Average Price: 1.24
+Month-Year: 12-2003, Average Price: 1.52
+Month-Year: 12-2002, Average Price: 1.43
+Month-Year: 12-2005, Average Price: 2.23
+Month-Year: 12-2004, Average Price: 1.89
+Month-Year: 12-2001, Average Price: 1.13
+Month-Year: 12-2000, Average Price: 1.48
+Month-Year: 02-1994, Average Price: 1.01
+Month-Year: 09-2010, Average Price: 2.76
+Month-Year: 02-1995, Average Price: 1.12
+Month-Year: 09-2011, Average Price: 3.67
+Month-Year: 09-2012, Average Price: 3.91
+Month-Year: 10-2003, Average Price: 1.61
+Month-Year: 10-2002, Average Price: 1.49
+Month-Year: 10-2001, Average Price: 1.36
+Month-Year: 10-2000, Average Price: 1.57
+Month-Year: 10-2007, Average Price: 2.85
+Month-Year: 10-2006, Average Price: 2.29
+Month-Year: 10-2005, Average Price: 2.77
+Month-Year: 10-2004, Average Price: 2.04
+Month-Year: 02-1998, Average Price: 1.10
+Month-Year: 02-1999, Average Price: 0.96
+Month-Year: 10-2009, Average Price: 2.60
+Month-Year: 02-1996, Average Price: 1.14
+Month-Year: 10-2008, Average Price: 3.11
+Month-Year: 02-1997, Average Price: 1.28
+Month-Year: 10-2010, Average Price: 2.85
+Month-Year: 10-2012, Average Price: 3.81
+Month-Year: 10-2011, Average Price: 3.51
+Month-Year: 06-1994, Average Price: 1.08
+Month-Year: 06-1995, Average Price: 1.24
+Month-Year: 06-1993, Average Price: 1.10
+Month-Year: 06-1998, Average Price: 1.10
+Month-Year: 06-1999, Average Price: 1.15
+Month-Year: 06-1996, Average Price: 1.30
+Month-Year: 06-1997, Average Price: 1.24
+Month-Year: 07-2003, Average Price: 1.55
+Month-Year: 07-2002, Average Price: 1.44
+Month-Year: 07-2001, Average Price: 1.47
+Month-Year: 07-2000, Average Price: 1.59
+Month-Year: 07-2009, Average Price: 2.58
+Month-Year: 07-2008, Average Price: 4.11
+Month-Year: 07-2007, Average Price: 3.01
+Month-Year: 07-2006, Average Price: 3.03
+Month-Year: 07-2005, Average Price: 2.33
+Month-Year: 07-2004, Average Price: 1.95
+Month-Year: 04-2012, Average Price: 3.96
+Month-Year: 07-2013, Average Price: 3.66
+Month-Year: 04-2013, Average Price: 3.64
+Month-Year: 07-2012, Average Price: 3.50
+Month-Year: 07-2011, Average Price: 3.70
+Month-Year: 07-2010, Average Price: 2.78
+Month-Year: 04-2010, Average Price: 2.90
+Month-Year: 04-2011, Average Price: 3.85
+Month-Year: 05-2013, Average Price: 3.68
+Month-Year: 09-1993, Average Price: 1.05
+Month-Year: 09-1994, Average Price: 1.14
+Month-Year: 05-2010, Average Price: 2.89
+Month-Year: 09-1995, Average Price: 1.16
+Month-Year: 09-1996, Average Price: 1.25
+Month-Year: 05-2012, Average Price: 3.79
+Month-Year: 09-1997, Average Price: 1.28
+Month-Year: 05-2011, Average Price: 3.96
+Month-Year: 09-1998, Average Price: 1.05
+Month-Year: 09-1999, Average Price: 1.30
+Month-Year: 05-2007, Average Price: 3.19
+Month-Year: 05-2006, Average Price: 2.95
+Month-Year: 05-2009, Average Price: 2.32
+Month-Year: 05-2008, Average Price: 3.82
+Month-Year: 06-2012, Average Price: 3.60
+Month-Year: 05-2003, Average Price: 1.54
+Month-Year: 06-2013, Average Price: 3.69
+Month-Year: 05-2002, Average Price: 1.43
+Month-Year: 06-2010, Average Price: 2.79
+Month-Year: 05-2005, Average Price: 2.20
+Month-Year: 06-2011, Average Price: 3.73
+Month-Year: 05-2004, Average Price: 2.02
+Month-Year: 05-2001, Average Price: 1.74
+Month-Year: 05-2000, Average Price: 1.53
+Month-Year: 06-2001, Average Price: 1.66
+Month-Year: 06-2002, Average Price: 1.42
+Month-Year: 06-2000, Average Price: 1.67
+Month-Year: 06-2005, Average Price: 2.20
+Month-Year: 06-2006, Average Price: 2.93
+Month-Year: 06-2003, Average Price: 1.53
+Month-Year: 06-2004, Average Price: 2.01
+Month-Year: 06-2009, Average Price: 2.68
+Month-Year: 06-2007, Average Price: 3.10
+Month-Year: 06-2008, Average Price: 4.11
+
+Highest and Lowest Prices per Year:
+Year: 2001, Highest Price: 1.75 on Mon May 14 00:00:00 CDT 2001
+Year: 2001, Lowest Price: 1.10 on Mon Dec 17 00:00:00 CST 2001
+Year: 2012, Highest Price: 4.00 on Mon Apr 09 00:00:00 CDT 2012
+Year: 2012, Lowest Price: 3.32 on Mon Dec 17 00:00:00 CST 2012
+Year: 2000, Highest Price: 1.71 on Mon Jun 19 00:00:00 CDT 2000
+Year: 2000, Lowest Price: 1.30 on Mon Jan 10 00:00:00 CST 2000
+Year: 2011, Highest Price: 4.02 on Mon May 09 00:00:00 CDT 2011
+Year: 2011, Lowest Price: 3.12 on Mon Jan 03 00:00:00 CST 2011
+Year: 2010, Highest Price: 3.11 on Mon Dec 27 00:00:00 CST 2010
+Year: 2010, Lowest Price: 2.66 on Mon Feb 15 00:00:00 CST 2010
+Year: 1998, Highest Price: 1.15 on Mon Jan 05 00:00:00 CST 1998
+Year: 1998, Lowest Price: 0.98 on Mon Dec 28 00:00:00 CST 1998
+Year: 2009, Highest Price: 2.75 on Mon Nov 02 00:00:00 CST 2009
+Year: 2009, Lowest Price: 1.74 on Mon Jan 05 00:00:00 CST 2009
+Year: 1997, Highest Price: 1.29 on Mon Aug 25 00:00:00 CDT 1997
+Year: 1997, Lowest Price: 1.16 on Mon Dec 29 00:00:00 CST 1997
+Year: 2008, Highest Price: 4.17 on Mon Jul 07 00:00:00 CDT 2008
+Year: 2008, Lowest Price: 1.67 on Mon Dec 29 00:00:00 CST 2008
+Year: 1996, Highest Price: 1.33 on Mon May 20 00:00:00 CDT 1996
+Year: 1996, Lowest Price: 1.13 on Mon Feb 12 00:00:00 CST 1996
+Year: 2007, Highest Price: 3.26 on Mon May 21 00:00:00 CDT 2007
+Year: 2007, Lowest Price: 2.21 on Mon Jan 29 00:00:00 CST 2007
+Year: 1995, Highest Price: 1.25 on Mon May 29 00:00:00 CDT 1995
+Year: 1995, Lowest Price: 1.11 on Mon Nov 20 00:00:00 CST 1995
+Year: 2006, Highest Price: 3.08 on Mon Aug 07 00:00:00 CDT 2006
+Year: 2006, Lowest Price: 2.25 on Mon Nov 06 00:00:00 CST 2006
+Year: 1994, Highest Price: 1.17 on Mon Aug 22 00:00:00 CDT 1994
+Year: 1994, Lowest Price: 0.99 on Mon Jan 03 00:00:00 CST 1994
+Year: 2005, Highest Price: 3.12 on Mon Sep 05 00:00:00 CDT 2005
+Year: 2005, Lowest Price: 1.82 on Mon Jan 03 00:00:00 CST 2005
+Year: 1993, Highest Price: 1.11 on Mon May 31 00:00:00 CDT 1993
+Year: 1993, Lowest Price: 1.00 on Mon Dec 27 00:00:00 CST 1993
+Year: 2004, Highest Price: 2.10 on Mon May 24 00:00:00 CDT 2004
+Year: 2004, Lowest Price: 1.55 on Mon Jan 05 00:00:00 CST 2004
+Year: 2003, Highest Price: 1.79 on Mon Aug 25 00:00:00 CDT 2003
+Year: 2003, Lowest Price: 1.49 on Mon Jan 06 00:00:00 CST 2003
+Year: 2002, Highest Price: 1.50 on Mon Oct 21 00:00:00 CDT 2002
+Year: 2002, Lowest Price: 1.14 on Mon Jan 28 00:00:00 CST 2002
+Year: 2013, Highest Price: 3.85 on Mon Feb 25 00:00:00 CST 2013
+Year: 2013, Lowest Price: 3.37 on Mon Jan 07 00:00:00 CST 2013
+Year: 1999, Highest Price: 1.32 on Mon Nov 29 00:00:00 CST 1999
+Year: 1999, Lowest Price: 0.95 on Mon Feb 22 00:00:00 CST 1999
