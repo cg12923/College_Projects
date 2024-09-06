@@ -1,0 +1,7 @@
+Receipt Date: Tue Sep 26 22:46:58 CDT 2023
+Cashier: David
+Items Purchased:
+Pants
+Total Price: $19.99
+Tax (8.25%): $1.649175
+Final Price: $21.64
